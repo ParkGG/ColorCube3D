@@ -6,6 +6,8 @@ Color Cube 3D는 유니티를 활용한 1인 제작 모바일 퍼즐 게임입�
 인접해 있는 같은 색상의 큐브를 터치하여 파괴하고 점수를 얻는 퍼즐 형식의 게임입니다.
 
 영상 : https://blog.naver.com/rhkdrb617/221824920632
+
+
 스토어 : https://play.google.com/store/apps/details?id=com.INFOGG.ColorCube
 
 
